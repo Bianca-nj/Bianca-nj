@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Bianca Njeri
 
-<!--
-**Bianca-nj/Bianca-nj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Backend Enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about building systems that solve real-world problems, especially in backend development. I enjoy working with **Laravel, databases, and API design**, and I’m currently growing my skills by building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I’m working on:**
+
+* Developing backend systems using Laravel
+* Building projects like stock management systems and service platforms
+* Improving my problem-solving and coding consistency
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Git, GitHub, XAMPP, VS Code
+
+🧠 **Currently learning:**
+
+* Advanced Laravel
+* API development
+* Database design & optimization
+
+📫 **Let’s connect:**
+
+* GitHub: https://github.com/Bianca-nj
