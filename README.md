@@ -1,4 +1,4 @@
-# Hello😊, I'm Bianca Njeri
+# Hello😊, I'm Bianca 
 
 Aspiring Software Developer | Backend Enthusiast
 
