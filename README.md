@@ -17,6 +17,4 @@ I’m passionate about building systems that solve real-world problems, especial
 * API development
 * Database design & optimization
 
-**Let’s connect:**
-
-* GitHub: https://github.com/Bianca-nj
+**Let’s connect**
